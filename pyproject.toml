@@ -1,0 +1,12 @@
+[project]
+name = "pantheon-singlecell"
+version = "0.1.0"
+description = "Agent for single-cell RNA-seq data analysis"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "magique>=0.1.5",
+    "pantheon-agents>=0.1.2",
+    "scanpy[leiden]>=1.10.4",
+]
