@@ -10,3 +10,8 @@ dependencies = [
     "pantheon-agents>=0.1.2",
     "scanpy[leiden]>=1.10.4",
 ]
+
+[dependency-groups]
+dev = [
+    "ipdb>=0.13.13",
+]

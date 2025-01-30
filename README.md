@@ -8,7 +8,7 @@ This is a demo of using Pantheon to build a single-cell RNA-seq data analysis ag
 Install the dependencies:
 
 ```bash
-$ pip install pantheon-agents[tool]>=0.1.3 scanpy[leiden]
+$ pip install pantheon-agents[tool]>=0.1.4 scanpy[leiden]
 ```
 
 Start the agent for chat:
