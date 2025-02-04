@@ -7,7 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "jupyter>=1.1.1",
     "magique>=0.1.5",
-    "pantheon-agents>=0.1.5",
+    "pantheon-agents>=0.1.6",
     "scanpy[leiden]>=1.10.4",
 ]
 
